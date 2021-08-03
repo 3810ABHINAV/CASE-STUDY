@@ -1,0 +1,28 @@
+body{
+  background-image: url(" https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_960_720.jpg");   
+  font-family: 'Solway', serif;   
+  color:black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.output{
+  color: crimson;
+}
+.mma{
+  color: blue;
+}
+.test{
+color: #9d00ff;
+}
+.bottom_div{
+  width: 1000px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: black;
+  border: 2px 2px dashed black;
+}
+img {  
+  width: 700px;  
+  height: 700px;  
+  }  
+  
